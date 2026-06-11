@@ -118,7 +118,3 @@ Hitman_Card_Game/
 | **Emil Ganbarli** | Backend — game logic, networking, file I/O |
 | **Alan Ukubaev** | Frontend — Swing GUI panels |
 
-## Course
-
-**SWE2016 — Java Programming Practice**
-Sungkyunkwan University, Spring 2026
